@@ -115,6 +115,3 @@ pharma-enterprise-lakehouse-v2/
 
 **Still required for production:** Live workspace deployment/tests, AWS IAM/KMS/network setup, private networking and regional residency review, Informatica integration, MDM, formal Data Vault modeling, Delta Change Data Feed incremental Gold propagation, failure injection, GxP/21 CFR Part 11 assessment, automated cloud governance and realistic 5–20 TB scale testing. Synthetic data only.
 
-For a defensible 60-second interview narrative, see [interview talk track](docs/INTERVIEW_TALK_TRACK.md).
-
-**License:** MIT.
