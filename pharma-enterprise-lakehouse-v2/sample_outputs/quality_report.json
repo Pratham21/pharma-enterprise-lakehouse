@@ -1,0 +1,12 @@
+{
+  "synthetic_input_events": 1144,
+  "duplicate_events_dropped": 2,
+  "quarantined_records": 1,
+  "history_events_valid": 1141,
+  "current_records_including_tombstones": 1000,
+  "active_prescriptions": 980,
+  "deleted_prescriptions": 20,
+  "total_active_units": 3170,
+  "data_is_synthetic": true,
+  "execution_mode": "stdlib reference (not actual Databricks)"
+}
